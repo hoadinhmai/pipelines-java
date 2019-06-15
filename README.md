@@ -1,4 +1,6 @@
 
+[![Build Status](https://hoamai.visualstudio.com/pipeline-java/_apis/build/status/hoadinhmai.pipelines-java?branchName=master)](https://hoamai.visualstudio.com/pipeline-java/_build/latest?definitionId=2&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
